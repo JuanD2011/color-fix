@@ -1,0 +1,16 @@
+{
+"companyName": "End Game Interactive",
+"productName": "Betrayal.io",
+"productVersion": "0.2.3",
+"dataUrl": "color-fix.data.unityweb",
+"wasmCodeUrl": "color-fix.wasm.code.unityweb",
+"wasmFrameworkUrl": "color-fix.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#101010",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
